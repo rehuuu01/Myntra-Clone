@@ -62,5 +62,6 @@ Some features that can be added in the future:
 * ⚡ JavaScript-based interactions
 * 💳 Checkout page
 
+--------
 
 ⭐ If you like this project, consider giving the repository a star!
